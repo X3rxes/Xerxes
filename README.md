@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Xerxes
-- 👀 I’m interested in Hacking
+- 👀 I’m interested in Offensive Security
 - 🌱 I’m currently learning Jr.pentesting 
 - 📫 Reach me on Discord : Xerxes#7411
 
